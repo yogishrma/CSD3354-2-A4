@@ -10,6 +10,7 @@ namespace ConsoleApp1
 {
     class Player
     {
+        // yogesh
         public bool IsAlive
         {
             get { return health > 0; }
